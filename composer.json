@@ -1,0 +1,12 @@
+{
+    "name": "suin/phpexcel-playground",
+    "authors": [
+        {
+            "name": "Hidehito Nozawa",
+            "email": "suinyeze@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpexcel": "~1.8"
+    }
+}
